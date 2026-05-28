@@ -40,8 +40,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Jinndu/Flyo)
+- Live Site URL: (https://jinndu.github.io/Flyo/)
 
 ## My process
 ### HTML Structure
@@ -161,6 +161,6 @@ I'm hoping to learn more on
 ## Author
 
 - Website - [Jinndu](https://github.com/Jinndu)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Jinndu)
-- Twitter - [@yourusername](https://x.com/agu_bliss)
+- Frontend Mentor - [@Jinndu](https://www.frontendmentor.io/profile/Jinndu)
+- Twitter - [@agu_bliss](https://x.com/agu_bliss)
 
